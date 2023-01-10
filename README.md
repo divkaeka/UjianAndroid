@@ -2,6 +2,6 @@
 ###### Aplikasi android sederhana untuk menampilkan inputan data kedalam listview diedit oleh divaeka
 
 ### Dibuat Oleh :
-##### DIVA EKA ARYANTI
+##### Diva Eka Aryanti
 ### NIM
 ##### G.111.21.0021
